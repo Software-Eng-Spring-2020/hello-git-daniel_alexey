@@ -15,6 +15,12 @@
 	         <Font size="20.0" />
 	      </font>
 	   </Label>
+	   <Label alignment="CENTER" maxWidth="1.7976931348623157E308" text="Alexey Alive" textAlignment="CENTER" VBox.vgrow="ALWAYS">
+	      <font>
+	         <Font size="15.0" />
+	      </font>
+	   </Label>
+
 	</children>
 </VBox>
 
