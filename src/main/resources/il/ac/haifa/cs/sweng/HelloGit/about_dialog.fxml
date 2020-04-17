@@ -10,10 +10,16 @@
 
 <VBox xmlns:fx="http://javafx.com/fxml/1">
 	<children>
-	   <Label alignment="CENTER" maxWidth="1.7976931348623157E308" text="Alexey Alive" textAlignment="CENTER" VBox.vgrow="ALWAYS">
+	   <Label alignment="CENTER" maxWidth="1.7976931348623157E308" text="Daniel Shalam" textAlignment="CENTER" VBox.vgrow="ALWAYS">
 	      <font>
-	         <Font size="15.0" />
+	         <Font size="20.0" />
 	      </font>
 	   </Label>
+	   <Label alignment="CENTER" maxWidth="1.7976931348623157E308" text="Alexey Alive" textAlignment="CENTER" VBox.vgrow="ALWAYS">
+	      <font>
+	         <Font size="20.0" />
+	      </font>
+	   </Label>
+	   
 	</children>
 </VBox>
