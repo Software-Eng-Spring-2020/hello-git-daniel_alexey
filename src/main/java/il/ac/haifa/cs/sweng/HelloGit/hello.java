@@ -7,5 +7,6 @@ public class hello {
 		
 		
 		System.out.println("my name is Alexey");
+		System.out.println("my name is Daniel");
 	}
 }
